@@ -1,0 +1,4 @@
+	(Mean-MinValue)/RMS=Ratio>4	
+	Nsig	Ntot(Efficiency%)	Nbkg_Tot	Err(Bkg->Sig)
+SJTU	132	135(97.7778%)	1069	1.59027%
+USTC	372	393(94.6565%)	2015	3.07692%

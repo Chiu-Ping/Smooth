@@ -1,0 +1,8 @@
+{ decls }
+namespace std {  }
+
+[ libChannel.so ]
+# List of selected classes
+class Channel
+class vector<Channel>
+header Channel.hpp

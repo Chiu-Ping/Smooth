@@ -1,0 +1,7 @@
+\hline
+$N_{tot}$	&&$N_{sig}$	&$N_{sig}(Eff)$	&$Nbg_{tot}$	&$Nbk(fake\ rate)$\\
+\hline
+$SJTU$($Ratio=(Mean-min)/RMS>4$)	&8008	&790	&798(98.9975\%)	&7210	&1.52566\%\\
+\hline
+$USTC$($Ratio=(Mean-min)/RMS>3.525$)	&8008	&1305	&1356(96.2389\%)	&6652	&3.50271\%\\
+\hline

@@ -1,0 +1,4 @@
+[ libEvent.so ]
+# List of selected classes
+class Event
+header Event.hpp

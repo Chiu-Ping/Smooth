@@ -1,0 +1,7 @@
+\hline
+$N_{tot_events}$	&&$N_{sig}$	&$N_{sig}(Eff)$	&$Nbg_{tot}$	&$Nbk(fake\ rate)$\\
+\hline
+$SJTU$($Ratio=(Mean-min)/RMS>4$)	&31648	&0	&0(-nan\%)	&0	&-nan\%\\
+\hline
+$USTC$($Ratio=(Mean-min)/RMS>3.525$)	&31648	&0	&0(-nan\%)	&0	&-nan\%\\
+\hline
